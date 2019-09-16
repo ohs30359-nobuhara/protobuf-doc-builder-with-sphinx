@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'ptah-domain'
-copyright = u'shp-front-delivery'
-author = u'shp-front-delivery'
+project = u'$(PROJECT_NAME)'
+copyright = u'$(COPY_RIGHT)'
+author = u'$(AUTHOR)'
 
 # The short X.Y version
 version = u''
